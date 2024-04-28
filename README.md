@@ -1,3 +1,3 @@
 # vrp-script-base
 
-* ._.notepad
+Ja. Til folk der skal kode i vRP
